@@ -6,6 +6,3 @@ app.get('/', (req, res) => {
   res.send({hi: 'dupa'})
 })
 app.listen(PORT)
-
-
-
